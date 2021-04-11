@@ -39,7 +39,7 @@ setup(name = _name,
       install_requires = [
           'web.py',
           'requests',
-          'pygnuplot',
+          'py-gnuplot',
       ],
       include_package_data = True,
       zip_safe = False)
