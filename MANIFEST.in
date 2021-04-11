@@ -1,0 +1,9 @@
+include docs/
+include static/
+include templates/
+include numaplot/numaplot.py
+include numaplot/han_gnuplot.py
+include numaplot/test_gnuplot.py
+include numaplot/__init__.py
+include LICENSE
+include README.rst
